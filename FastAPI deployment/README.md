@@ -169,10 +169,4 @@ Set `TEST_IMAGE` (in the configuration cell of each notebook) to any JPG or PNG.
 - **Local only by default.** The server binds to `127.0.0.1`, so only your machine can reach it. Change `HOST` only if you understand the exposure.
 - **Licensing.** The test image is AI-generated and included for the lab. Model configuration and weights are fetched at run time from the [AlexeyAB/darknet](https://github.com/AlexeyAB/darknet) repository; check its terms before redistributing them. Add the licence for your own code here.
 - **Troubleshooting** tables (port in use, missing `python-multipart`, slow first request, proxies, and more) are at the end of `server.ipynb`.
-
-
-
---------------
-Note: 
-- this lab is based on the original lab from the course Machine Learning in Production by Deeplearning (dot) ai
-- all the images are AI generated and provided for illustration purposes
+- **Examples** this lab is inspired by the original lab from the course Machine Learning in Production by Deeplearning (dot) ai
